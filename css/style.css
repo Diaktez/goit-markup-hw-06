@@ -632,7 +632,6 @@ button {
 @media screen and (min-width:768px) {
     .team-container {
         padding: 0 92px;
-
     }
 
     .team-list {
@@ -640,7 +639,6 @@ button {
         flex-wrap: wrap;
         row-gap: 48px;
         column-gap: 24px;
-
     }
 
     .team-li {
@@ -650,7 +648,8 @@ button {
 
 @media screen and (min-width:1158px) {
     .team-container {
-        padding: 0;
+        padding: 0 15px;
+
     }
 
     .team-list {
