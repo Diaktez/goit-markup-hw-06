@@ -1198,7 +1198,7 @@ button {
 }
 
 .privacy-text {
-    max-width: 233px;
+    /* max-width: 233px; */
     font-weight: 400;
     font-size: 12px;
     line-height: 1.17;
@@ -1226,6 +1226,7 @@ button {
     .modal {
         width: 408px;
         min-height: 584px;
+
     }
 
     .label-checkbox {
@@ -1236,5 +1237,6 @@ button {
     .privacy {
         flex-direction: row;
         gap: 2px;
+        display: block;
     }
 }
