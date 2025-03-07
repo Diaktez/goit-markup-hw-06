@@ -953,7 +953,8 @@ button {
         flex-wrap: nowrap;
         align-items: baseline;
         justify-content: left;
-        padding: 100px 0;
+        padding: 100px 15px;
+        gap: 0;
     }
 
     .footer-logo-conteiner {
@@ -962,7 +963,7 @@ button {
 
     .subscribe {
         margin-left: auto;
-        margin-right: auto;
+
     }
 }
 
